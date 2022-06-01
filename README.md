@@ -1,5 +1,6 @@
 # Repositorios de Prácticas de la Universidad de La Laguna
 
+- Ingenería Informática
 - Realizado por: José Javier Díaz González.
 
 ###
