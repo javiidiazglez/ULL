@@ -14,7 +14,6 @@
 |                                                                       	|   [Lenguaje y Paradigma de Programación](https://github.com/javiidiazglez/LPP)  	|
 |                                                                       	|        [Usabilidad y Accesibilidad](https://github.com/javiidiazglez/UyA)       	|
 |                                                                       	| [Sistema Interacción Persona-Computador](https://github.com/javiidiazglez/SIPC) 	|
-|                                                                       	|                                                                                 	|
 
 |                                 **Prácticas 2º Año:**                                	|                           **Prácticas 1º Año:**                           	|
 |:------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------:	|
