@@ -1,17 +1,18 @@
 # Repositorios de Prácticas de la Universidad de La Laguna
 
+- Realizado por: José Javier Díaz González.
 
-- Realizado por: *José Javier Díaz González*.
+###
+<p align="center">
 
 | **Prácticas 4º Año:**                                                 | **Prácticas 3º Año:**                                                           |
 |-----------------------------------------------------------------------|---------------------------------------------------------------------------------|
 | [Tecnologías de la Información](https://github.com/javiidiazglez/TIO) | [Desarrollo Sistemas Informáticos](https://github.com/javiidiazglez/DSI)        |
-|                                                                       | [Inteligencia Artificial](https://github.com/javiidiazglez/IA)                  |
 |                                                                       | [Base de Datos](https://github.com/javiidiazglez/BDD)                           |
+|                                                                       | [Inteligencia Artificial](https://github.com/javiidiazglez/IA)                  |
 |                                                                       | [Lenguaje y Paradigma de Programación](https://github.com/javiidiazglez/LPP)    |
 |                                                                       | [Usabilidad y Accesibilidad](https://github.com/javiidiazglez/UyA)              |
 |                                                                       | [Sistema Interacción Persona-Computador](https://github.com/javiidiazglez/SIPC) |
-|                                                                       |                                                                                 |
 
 | **Prácticas 2º Año:**                                                                | **Prácticas 1º Año:**                                                     |
 |--------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
@@ -22,5 +23,4 @@
 | [Estructura de Computadores](https://github.com/javiidiazglez/EC)                    | [Informática Básica](https://github.com/javiidiazglez/IB)                 |
 | [Estadistica](https://github.com/javiidiazglez/Estadistica)                          | [Expresión Gráfica](https://github.com/javiidiazglez/Expresion-Grafica)   |
 | [Redes](https://github.com/javiidiazglez/Redes)                                      |                                                                           |
-
-
+</p>
